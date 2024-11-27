@@ -7,6 +7,7 @@ Create a deployment for production environment. Set also the replicas to 3. Kind
 - `README.md`: Contains the steps taken to finish the activity and the challenge question
 - `Proof.PNG`: Proof of completing the activity
 - `Terminal_Output.md`: The terminal outputs from start to finish
+- `Challenge-Prod-JCDiamante.yaml`: Contains the configurations for production.
 
 ## Step 1: Creating a YAML for production environment
 
